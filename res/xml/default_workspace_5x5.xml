@@ -87,7 +87,7 @@
 
     <appwidget
         launcher:packageName="com.android.brawn"
-        launcher:className="com.android.brawn.CoreWidgetProvider"
+        launcher:className="com.android.brawn.provider.MainWidgetProvider"
         launcher:screen="0"
         launcher:x="0"
         launcher:y="4"
